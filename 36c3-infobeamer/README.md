@@ -1,18 +1,6 @@
-# oio-design
+# oio-design 36c3 Teaser
 
-![OIO BADGE](badge/OIO-badge-more-text.svg)
 
-## Font
-    
-Avenir Next
+## C3Nav
 
-## folders
-
-- source:
-    - Affinity Designer File(s)
-
-- plain
-    - plain Logo SVGs
-
-- favicons
-    - assorted small bitmaps
+https://36c3.c3nav.de/l/oio/@0,451.5,394.82,4.2
